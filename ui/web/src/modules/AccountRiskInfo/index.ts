@@ -1,1 +1,2 @@
 import './AccountRiskInfoList';
+import './AccountRiskInfoRelations';
